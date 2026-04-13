@@ -1,0 +1,11 @@
+{
+  "name": "Dark-void",
+  "version": "0.0.1",
+  "authors": ["Arun karthick"],
+  "description": "Dark Void — high contrast, warm-balanced dark theme for Zed.",
+  "themes": [
+    {
+      "path": "themes/Dark-void.json"
+    }
+  ]
+}
